@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular and Node.js**
 
 - 📫 How to reach me **fatihdincereng@gmail.com**
 
