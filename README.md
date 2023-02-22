@@ -12,7 +12,6 @@
 
 - LeetCode account: https://leetcode.com/fatihdincereng/
 
-- Medium Account: https://medium.com/@fatihdincereng
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
