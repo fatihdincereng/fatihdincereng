@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **fatihdincereng@gmail.com**
 
-- LeetCode account: https://leetcode.com/fatihdincereng/
 
 
 <h3 align="left">Connect with me:</h3>
