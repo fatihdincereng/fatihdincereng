@@ -4,9 +4,8 @@
 
 - 🔭  I graduated from Uludag University, Computer Engineering.
 
-- 🌱 I’m currently learning **Spring Framework**
 
-- 💬 Ask me about **Angular and Node.js**
+- 💬 Ask me about **Angular,Java,.NET**
 
 - 📫 How to reach me **fatihdincereng@gmail.com**
 
