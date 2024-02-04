@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular,Java,.NET**
 
-- 📫 How to reach me **fatihdincereng@gmail.com**
+- 📫 How to reach me **fatihdincergnz@gmail.com**
 
 
 
