@@ -5,7 +5,7 @@
 - 🔭  I graduated from Uludag University, Computer Engineering.
 
 
-- 💬 Ask me about **Angular,Java,.NET**
+- 💬 Ask me about **Angular,.NET**
 
 - 📫 How to reach me **fatihdincergnz@gmail.com**
 
